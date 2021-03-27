@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ib-blockchain-glasanje:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ib_blockchain_glasanje_jar</output-path>
+    <root id="archive" name="ib-blockchain-glasanje.jar">
+      <element id="module-output" name="ib-blockchain-glasanje" />
+    </root>
+  </artifact>
+</component>
